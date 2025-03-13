@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "location": "New York, USA",
+      "isActive": true
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "location": "London, UK",
+      "isActive": false
+    },
+    {
+      "name": "Siva",
+      "email": "siva@example.com",
+      "age": 28,
+      "location": "Ameerpet, Telangana, India",
+      "isActive": true
+    }
+  ],
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 999.99,
+      "inStock": true
+    },
+    {
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "inStock": false
+    },
+    {
+      "name": "Smartphone",
+      "price": 699.99,
+      "inStock": true
+    }
+  ]
+}
